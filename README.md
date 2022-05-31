@@ -16,3 +16,8 @@ bash ipBysrf.sh
 ``` Laravel
 [+] Input Keyword : laravel
 ```
+-----
+* Search results
+``` Move To Storage 
+mv result.txt /storage/emulated/0
+```
